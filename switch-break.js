@@ -1,3 +1,6 @@
+// El mensaje 'No es válido' se está disparando cuando debería haber un empate
+// El mensaje 'No es válido' se está disparando antes del mensage que declara un ganador
+
 var jugador01 = prompt("Elige piedra, papel o tijera: ");
 
 var jugador02 = prompt("Elige piedra, papel o tijera: ");
